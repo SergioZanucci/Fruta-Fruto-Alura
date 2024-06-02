@@ -1,11 +1,14 @@
 .pessoas {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     padding-top: 3rem;
 }
 
 @media screen and (min-width: 0) {
     .pessoas {
+        display: flex;
+        align-content: center;
         flex-direction: column;
 
     }

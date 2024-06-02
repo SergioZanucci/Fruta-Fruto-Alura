@@ -16,8 +16,8 @@
     }
 }
 
-@media screen and (min-width: 0) {
+@media screen and (min-width: 440px) {
     .banner__titulo {
-        Font-size: 5.0625rem;
+        font-size: 5.0625rem;
     }
 }

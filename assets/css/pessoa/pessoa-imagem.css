@@ -8,6 +8,14 @@
     width: 300px;
 }
 
+/* @media screen and (min-width: 440px) {
+    .pessoa__imagem {
+        width: 200px;
+        height: 200px;
+
+    }
+} */
+
 .pessoa__imagem--roberta {
     background-image: url('../../img/pessoas/roberta.png');
 }
